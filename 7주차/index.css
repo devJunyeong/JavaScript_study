@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  max-width: 1200px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.text-section {
+  max-width: 50%;
+}
+
+.text-section h1 {
+  color: #0085ff;
+}
+
+.text-section h2 {
+  color: #000000;
+  border: 2px solid #ff00ff;
+  padding: 5px;
+  display: inline-block;
+}
+
+.line {
+  width: 100px;
+  height: 1px;
+  background-color: black;
+}
+
+.dog {
+}

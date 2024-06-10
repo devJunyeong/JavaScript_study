@@ -1,0 +1,12 @@
+div.front {
+  width: 613px;
+  height: 613px;
+  border: 1px solid #3b3a3a;
+  margin-bottom: 40px;
+}
+
+div.back {
+  width: 900px;
+  height: 500px;
+  border: 1px solid #eee;
+}
